@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">1024_3</string>
+    <string-array name="Spurs">
+        <item>Parker</item>
+        <item>Green</item>
+        <item>Leonard</item>
+        <item>Aldridge</item>
+        <item>Gasol</item>
+        <item>Ginobili</item>
+    </string-array>
+
+
+</resources>
